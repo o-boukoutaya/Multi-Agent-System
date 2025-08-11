@@ -1,0 +1,21 @@
+fastmcp
+langchain_community
+duckduckgo-search
+torch
+transformers
+langgraph
+ipykernel
+langchain
+langchainhub
+openai
+# google
+# langsmith
+# -qU "langchain[anthropic]"
+# -U langchain-openai
+# -U langchain-google-genai
+langchain-google-genai
+sseclient-py
+langgraph-supervisor
+asyncio
+yfinance
+langchain-mcp-adapters
