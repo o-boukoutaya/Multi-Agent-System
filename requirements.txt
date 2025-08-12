@@ -19,3 +19,5 @@ langgraph-supervisor
 asyncio
 yfinance
 langchain-mcp-adapters
+# kernel
+# jupyter

@@ -8,6 +8,8 @@ ENV/
 .Python
 .pytest_cache/
 
+# Virtualenv in repo
+smaenv/
 
 # Logs and runtime
 *.log
@@ -28,4 +30,4 @@ Thumbs.db
 
 # Environment
 .env
-.env.*
+# .env.*
